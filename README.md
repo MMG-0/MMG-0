@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMG-0
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning/relearning many things
-- 💞️ I’m looking to collaborate on, ... have not decided yet.
+- 🌱 I’m currently learning/relearning many things.
+- 💞️ I’m looking to learn the ins and outs of Flutter.
 - 📫 How to reach me ...
 
 <!---
